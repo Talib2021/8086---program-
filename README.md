@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project demonstrates how 8085 assembly code can be integrated into a C++ program. The primary goal is to show the interaction between C++ and low-level assembly language code, enabling efficient hardware-level operations and simulating 8086 microprocessor instructions within a high-level language environment.
+This project demonstrates how 8086 assembly code can be integrated into a C++ program. The primary goal is to show the interaction between C++ and low-level assembly language code, enabling efficient hardware-level operations and simulating 8086 microprocessor instructions within a high-level language environment.
 
 ## Objectives
 
